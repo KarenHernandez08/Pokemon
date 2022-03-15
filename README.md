@@ -6,6 +6,6 @@ Creación de un Pokedex con la tecnología de HTML, CSS Y JS
 
  ## Estas son las capturas de como se ve desarrollado el pokedex
 
- !()[https://github.com/KarenHernandez08/Pokemon/blob/main/pokeapi/imagenes/index.PNG]
- !()[https://github.com/KarenHernandez08/Pokemon/blob/main/pokeapi/imagenes/index2.PNG]
- !()[https://github.com/KarenHernandez08/Pokemon/blob/main/pokeapi/imagenes/no-encontrado.PNG]
+ ![](https://github.com/KarenHernandez08/Pokemon/blob/main/pokeapi/imagenes/index.PNG)
+ ![](https://github.com/KarenHernandez08/Pokemon/blob/main/pokeapi/imagenes/index2.PNG)
+ ![](https://github.com/KarenHernandez08/Pokemon/blob/main/pokeapi/imagenes/no-encontrado.PNG)
